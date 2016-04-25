@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require 'pry'
 
 require './lib/Fires_Near_Me'
 
